@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#!/bin/bash\necho "ALX School" 
+#!/bin/bash\necho "ALX School is cool" 
 =======
 #!/bin/bash\necho "ALX School" 
 >>>>>>> origin/update_script
